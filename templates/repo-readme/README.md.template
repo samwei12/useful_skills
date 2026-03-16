@@ -1,0 +1,27 @@
+# <repo_name>
+
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
+<one_sentence_english_description>
+
+## Overview
+
+- <what_this_repo_contains>
+- <main_use_case>
+- <main_boundary_or_non_goal>
+
+## Structure
+
+```text
+<repo_name>/
+├── README.md
+├── README.zh-CN.md
+├── LICENSE
+└── <main_dirs>
+```
+
+## Notes
+
+- <important_runtime_or_usage_note>
+- <portability_note>
+- <safety_or_dependency_note>

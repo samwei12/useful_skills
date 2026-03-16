@@ -25,6 +25,15 @@
 - `memory-runtime/SKILL.md` 是给 agent 的执行契约
 - `memory-runtime/README.md` 是给人读的使用说明
 
+## 模板
+
+可复用的双语 README 骨架放在 [templates](./templates)：
+
+- [templates/repo-readme/README.md.template](./templates/repo-readme/README.md.template)
+- [templates/repo-readme/README.zh-CN.md.template](./templates/repo-readme/README.zh-CN.md.template)
+- [templates/skill-readme/README.md.template](./templates/skill-readme/README.md.template)
+- [templates/skill-readme/README.zh-CN.md.template](./templates/skill-readme/README.zh-CN.md.template)
+
 ## 仓库结构
 
 ```text
@@ -33,11 +42,8 @@ useful_skills/
 ├── README.zh-CN.md
 ├── LICENSE
 ├── .gitignore
+├── templates/
 └── memory-runtime/
-    ├── README.md
-    ├── README.zh-CN.md
-    ├── SKILL.md
-    └── scripts/
 ```
 
 ## 说明

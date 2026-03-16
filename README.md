@@ -22,6 +22,15 @@ This repository currently starts with one opinionated skill:
 
 The skill lives in [memory-runtime](./memory-runtime). The agent-facing contract is in `memory-runtime/SKILL.md`, and the human-readable usage guide is in `memory-runtime/README.md`.
 
+## Templates
+
+Reusable bilingual README skeletons live under [templates](./templates):
+
+- [templates/repo-readme/README.md.template](./templates/repo-readme/README.md.template)
+- [templates/repo-readme/README.zh-CN.md.template](./templates/repo-readme/README.zh-CN.md.template)
+- [templates/skill-readme/README.md.template](./templates/skill-readme/README.md.template)
+- [templates/skill-readme/README.zh-CN.md.template](./templates/skill-readme/README.zh-CN.md.template)
+
 ## Repo Layout
 
 ```text
@@ -30,11 +39,8 @@ useful_skills/
 ├── README.zh-CN.md
 ├── LICENSE
 ├── .gitignore
+├── templates/
 └── memory-runtime/
-    ├── README.md
-    ├── README.zh-CN.md
-    ├── SKILL.md
-    └── scripts/
 ```
 
 ## Notes

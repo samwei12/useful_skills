@@ -1,0 +1,39 @@
+# <skill_name>
+
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
+<one_sentence_english_description>
+
+## What It Does
+
+- <core_capability_1>
+- <core_capability_2>
+- <core_capability_3>
+
+## Prerequisites
+
+- <runtime_requirement>
+- <tooling_requirement>
+- <platform_requirement>
+
+## Quick Start
+
+```bash
+<example_command_1>
+```
+
+```bash
+<example_command_2>
+```
+
+## Workflow
+
+1. <step_1>
+2. <step_2>
+3. <step_3>
+
+## Notes
+
+- <important_behavior>
+- <storage_or_dependency_note>
+- <safety_note>
